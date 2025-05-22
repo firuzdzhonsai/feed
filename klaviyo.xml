@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<products>
-<product>
+<Products>
+<Product>
   <id>10000035</id>
   <titel>Prym Glaskopf-Stecknadeln (43 mm/ extra lang/ gelb/ 20 g)</titel>
   <link>https://oxid-shop.app.localhost/prym-glaskopf-stecknadeln-43-mm-extra-lang-gelb-20-g.html</link>
@@ -9,9 +9,9 @@
   <image_link>https://oxid-shop.app.localhost/out/pictures/master/product/1/35(1).jpg</image_link>
   <categories>Zubeh&#xF6;r &gt; Sticken &amp; N&#xE4;hen</categories>
   <stock>78</stock>
-</product>
+</Product>
 
-<product>
+<Product>
   <id>10000041</id>
   <titel>Bernina Nr. 33 Biesenfu&#xDF; (9-Rillen/ f&#xFC;r alte Modelle)</titel>
   <link>https://oxid-shop.app.localhost/bernina-nr-33-biesenfuss-9-rillen-fuer-alte-modelle.html</link>
@@ -20,9 +20,9 @@
   <image_link>https://oxid-shop.app.localhost/out/pictures/master/product/1/41_shop.jpg</image_link>
   <categories>Zubeh&#xF6;r</categories>
   <stock>2</stock>
-</product>
+</Product>
 
-<product>
+<Product>
   <id>10000051</id>
   <titel>Bernina Spulenkapsel CB (verchromt)</titel>
   <link>https://oxid-shop.app.localhost/bernina-spulenkapsel-cb-verchromt.html</link>
@@ -31,9 +31,9 @@
   <image_link>https://oxid-shop.app.localhost/out/pictures/master/product/1/51_shop.jpg</image_link>
   <categories>Zubeh&#xF6;r</categories>
   <stock>7</stock>
-</product>
+</Product>
 
-<product>
+<Product>
   <id>10000074</id>
   <titel>Brother 5-Faden-Biesenfu&#xDF; - CB-Greifer (5 mm)</titel>
   <link>https://oxid-shop.app.localhost/brother-5-faden-biesenfuss-cb-greifer-5-mm.html</link>
@@ -42,9 +42,9 @@
   <image_link>https://oxid-shop.app.localhost/out/pictures/master/product/1/74.jpg</image_link>
   <categories>Zubeh&#xF6;r &gt; N&#xE4;h- &amp; Stickmaschinen-Zubeh&#xF6;r &gt; N&#xE4;hf&#xFC;&#xDF;e</categories>
   <stock>15</stock>
-</product>
+</Product>
 
-<product>
+<Product>
   <id>10000080</id>
   <titel>Bernina Nr. 30 Biesenfu&#xDF; (3-Rillen/ f&#xFC;r alte Modelle)</titel>
   <link>https://oxid-shop.app.localhost/bernina-nr-30-biesenfuss-3-rillen-fuer-alte-modelle.html</link>
@@ -53,9 +53,9 @@
   <image_link>https://oxid-shop.app.localhost/out/pictures/master/product/1/80.jpg</image_link>
   <categories>Zubeh&#xF6;r &gt; N&#xE4;h- &amp; Stickmaschinen-Zubeh&#xF6;r &gt; N&#xE4;hf&#xFC;&#xDF;e</categories>
   <stock>3</stock>
-</product>
+</Product>
 
-<product>
+<Product>
   <id>10000081</id>
   <titel>Bernina Nr. 31 Biesenfu&#xDF; (5-Rillen/ f&#xFC;r alte Modelle)</titel>
   <link>https://oxid-shop.app.localhost/bernina-nr-31-biesenfuss-5-rillen-fuer-alte-modelle.html</link>
@@ -64,9 +64,9 @@
   <image_link>https://oxid-shop.app.localhost/out/pictures/master/product/1/81_shop.jpg</image_link>
   <categories>Zubeh&#xF6;r</categories>
   <stock>1</stock>
-</product>
+</Product>
 
-<product>
+<Product>
   <id>10000089</id>
   <titel>Bernina Nr. 38 Paspelfu&#xDF; (f&#xFC;r alte Modelle)</titel>
   <link>https://oxid-shop.app.localhost/bernina-nr-38-paspelfuss-fuer-alte-modelle.html</link>
@@ -75,9 +75,9 @@
   <image_link>https://oxid-shop.app.localhost/out/pictures/master/product/1/10000089-nr-38-paspelfuss.jpg</image_link>
   <categories>Zubeh&#xF6;r</categories>
   <stock>2</stock>
-</product>
+</Product>
 
-<product>
+<Product>
   <id>10000091</id>
   <titel>Husqvarna Viking Freihand-Rahmen</titel>
   <link>https://oxid-shop.app.localhost/husqvarna-viking-freihand-rahmen.html</link>
@@ -86,9 +86,9 @@
   <image_link>https://oxid-shop.app.localhost/out/pictures/master/product/1/10000091-freihand-rahmen-1.jpg</image_link>
   <categories>Zubeh&#xF6;r &gt; N&#xE4;h- &amp; Stickmaschinen-Zubeh&#xF6;r</categories>
   <stock>1</stock>
-</product>
+</Product>
 
-<product>
+<Product>
   <id>10000111</id>
   <titel>Schmetz Universalnadel St&#xE4;rke 100/ System 130/705 H/ 10 Nadeln</titel>
   <link>https://oxid-shop.app.localhost/schmetz-universalnadel-staerke-100-system-130-705-h-10-nadeln.html</link>
@@ -97,9 +97,9 @@
   <image_link>https://oxid-shop.app.localhost/out/pictures/master/product/1/111.jpg</image_link>
   <categories>Zubeh&#xF6;r</categories>
   <stock>53</stock>
-</product>
+</Product>
 
-<product>
+<Product>
   <id>10000112</id>
   <titel>Schmetz Universalnadel St&#xE4;rke 110/ System 130/705 H/ 10 Nadeln</titel>
   <link>https://oxid-shop.app.localhost/schmetz-universalnadel-staerke-110-system-130-705-h-10-nadeln.html</link>
@@ -108,5 +108,5 @@
   <image_link>https://oxid-shop.app.localhost/out/pictures/master/product/1/112.jpg</image_link>
   <categories>Zubeh&#xF6;r &gt; Nadeln &gt; N&#xE4;h- und Stickmaschinennadeln</categories>
   <stock>226</stock>
-</product>
-</products>
+</Product>
+</Products>
