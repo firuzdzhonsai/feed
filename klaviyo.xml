@@ -1,36 +1,112 @@
 <?xml version="1.0"?>
 <Products>
-  <Product>
-    <id>KLAVIYO-TSHIRT1</id>
-    <title>Classic Klaviyo T-Shirt 1</title>
-    <link>https://klaviyogear.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-1</link>
-    <description>Standard issue for all Klaviyos. This t-shirt has the Klaviyo logo on the front and mark diagram on the back.</description>
-    <price>10</price>
-    <image_link>https://www.klaviyo.com/media/images/examples/products/klaviyo-tshirt-thumbnail.png</image_link>
-    <categories>apparel,t-shirt,new-arrival,swag</categories>
-    <inventory_quantity>25</inventory_quantity>
-    <inventory_policy>1</inventory_policy>
-  </Product>
-  <Product>
-    <id>KLAVIYO-TSHIRT2</id>
-    <title>Classic Klaviyo T-Shirt 1</title>
-    <link>https://klaviyogear.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-1</link>
-    <description>Standard issue for all Klaviyos. This t-shirt has the Klaviyo logo on the front and mark diagram on the back.</description>
-    <price>10</price>
-    <image_link>https://www.klaviyo.com/media/images/examples/products/klaviyo-tshirt-thumbnail.png</image_link>
-    <categories>apparel,t-shirt,new-arrival,swag</categories>
-    <inventory_quantity>30</inventory_quantity>
-    <inventory_policy>1</inventory_policy>
-  </Product>
-  <Product>
-    <id>KLAVIYO-TSHIRT3</id>
-    <title>Classic Klaviyo T-Shirt 1</title>
-    <link>https://klaviyogear.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-1</link>
-    <description>Standard issue for all Klaviyos. This t-shirt has the Klaviyo logo on the front and mark diagram on the back.</description>
-    <price>10</price>
-    <image_link>https://www.klaviyo.com/media/images/examples/products/klaviyo-tshirt-thumbnail.png</image_link>
-    <categories>apparel,t-shirt,new-arrival,swag</categories>
-    <inventory_quantity>0</inventory_quantity>
-    <inventory_policy>1</inventory_policy>
-  </Product>
+<Product>
+  <id>10000035</id>
+  <title>Prym Glaskopf-Stecknadeln (43 mm/ extra lang/ gelb/ 20 g)</title>
+  <link>https://oxid-shop.app.localhost/prym-glaskopf-stecknadeln-43-mm-extra-lang-gelb-20-g.html</link>
+  <description>Die Premiumvariante der Stecknadeln sind die Glaskopfstecknadeln. Sie zeichnen sich durch einen hitzebest&#xE4;ndigen, rund geformten Kopf aus hochwertigem Glas aus. Die Glask&#xF6;pfe gibt es in verschiedenen Farbausf&#xFC;hrungen, die man nach Vern&#xE4;hen der abgesteckte</description>
+  <price>7.6</price>
+  <image_link>https://oxid-shop.app.localhost/out/pictures/master/product/1/35(1).jpg</image_link>
+  <categories>Zubeh&#xF6;r,Sticken &amp; N&#xE4;hen</categories>
+  <inventory_quantity>78</inventory_quantity>
+</Product>
+
+<Product>
+  <id>10000041</id>
+  <title>Bernina Nr. 33 Biesenfu&#xDF; (9-Rillen/ f&#xFC;r alte Modelle)</title>
+  <link>https://oxid-shop.app.localhost/bernina-nr-33-biesenfuss-9-rillen-fuer-alte-modelle.html</link>
+  <description>F&#xFC;r Modellgruppe A Der Biesenfu&#xDF; mit 9 Rillen Nr. 33 eignet sich f&#xFC;r besonders leichte Stoffe wie Batist. Er kommt beim Biesenn&#xE4;hen mit einer Zwillingsnadel zum Einsatz. Die Rillen an der Fu&#xDF;sohle unterst&#xFC;tzen die Bildung von parallelen Biesen.</description>
+  <price>28.7</price>
+  <image_link>https://oxid-shop.app.localhost/out/pictures/master/product/1/41_shop.jpg</image_link>
+  <categories>Zubeh&#xF6;r</categories>
+  <inventory_quantity>2</inventory_quantity>
+</Product>
+
+<Product>
+  <id>10000051</id>
+  <title>Bernina Spulenkapsel CB (verchromt)</title>
+  <link>https://oxid-shop.app.localhost/bernina-spulenkapsel-cb-verchromt.html</link>
+  <description>F&#xFC;r Modellgruppe  A1 (910-933/1004-1031/108-1530) und Modellgruppe B </description>
+  <price>37.7</price>
+  <image_link>https://oxid-shop.app.localhost/out/pictures/master/product/1/51_shop.jpg</image_link>
+  <categories>Zubeh&#xF6;r</categories>
+  <inventory_quantity>7</inventory_quantity>
+</Product>
+
+<Product>
+  <id>10000074</id>
+  <title>Brother 5-Faden-Biesenfu&#xDF; - CB-Greifer (5 mm)</title>
+  <link>https://oxid-shop.app.localhost/brother-5-faden-biesenfuss-cb-greifer-5-mm.html</link>
+  <description>F&#xFC;r Modellgruppe J (J-1) K M N Um leichte Stoffe gleichm&#xE4;&#xDF;ig mit Biesen oder mit Schnur unterlegten Biesen zu versch&#xF6;nern, ist dieser klassische Biesenfu&#xDF; mit 5 Rillen bestens geeignet. Um gleichm&#xE4;&#xDF;ige Biesen zu erhalten, wird zu N&#xE4;hen eine Zwillingsnadel</description>
+  <price>13.4</price>
+  <image_link>https://oxid-shop.app.localhost/out/pictures/master/product/1/74.jpg</image_link>
+  <categories>Zubeh&#xF6;r,N&#xE4;h- &amp; Stickmaschinen-Zubeh&#xF6;r,N&#xE4;hf&#xFC;&#xDF;e</categories>
+  <inventory_quantity>15</inventory_quantity>
+</Product>
+
+<Product>
+  <id>10000080</id>
+  <title>Bernina Nr. 30 Biesenfu&#xDF; (3-Rillen/ f&#xFC;r alte Modelle)</title>
+  <link>https://oxid-shop.app.localhost/bernina-nr-30-biesenfuss-3-rillen-fuer-alte-modelle.html</link>
+  <description>F&#xFC;r Modellgruppe A Der Biesenfu&#xDF; mit 3 Rillen N 30 ist ein vielseitiger N&#xE4;hfu&#xDF; zum N&#xE4;hen von attraktiven Biesen in Kombination mit einer 4 mm Zwillingsnadel. Er eignet sich au&#xDF;erdem optimal zum N&#xE4;hen von Minipaspeln, elastisches Kr&#xE4;useln und Aufn&#xE4;hen von </description>
+  <price>29.6</price>
+  <image_link>https://oxid-shop.app.localhost/out/pictures/master/product/1/80.jpg</image_link>
+  <categories>Zubeh&#xF6;r,N&#xE4;h- &amp; Stickmaschinen-Zubeh&#xF6;r,N&#xE4;hf&#xFC;&#xDF;e</categories>
+  <inventory_quantity>3</inventory_quantity>
+</Product>
+
+<Product>
+  <id>10000081</id>
+  <title>Bernina Nr. 31 Biesenfu&#xDF; (5-Rillen/ f&#xFC;r alte Modelle)</title>
+  <link>https://oxid-shop.app.localhost/bernina-nr-31-biesenfuss-5-rillen-fuer-alte-modelle.html</link>
+  <description>F&#xFC;r Modellgruppe A Der Biesenfu&#xDF; mit 5 Rillen Nr. 31 ist speziell f&#xFC;r das N&#xE4;hen von gleichm&#xE4;&#xDF;igen Biesen auf mittelschweren Stoffen geeignet.  F&#xFC;r das Biesenn&#xE4;hen wird eine Zwillingsnadel mit passendem Zwischennadelabstand ben&#xF6;tigt. </description>
+  <price>34</price>
+  <image_link>https://oxid-shop.app.localhost/out/pictures/master/product/1/81_shop.jpg</image_link>
+  <categories>Zubeh&#xF6;r</categories>
+  <inventory_quantity>1</inventory_quantity>
+</Product>
+
+<Product>
+  <id>10000089</id>
+  <title>Bernina Nr. 38 Paspelfu&#xDF; (f&#xFC;r alte Modelle)</title>
+  <link>https://oxid-shop.app.localhost/bernina-nr-38-paspelfuss-fuer-alte-modelle.html</link>
+  <description>F&#xFC;r Modellgruppe A Der Paspelfu&#xDF; Nr. 38 wird oft auch als der ungleiche N&#xE4;hfu&#xDF; bezeichnet, da er ungleichm&#xE4;&#xDF;ig hohe Unterseiten hat. Dadurch ist der N&#xE4;hfu&#xDF; ideal zum Herstellen von schmalen bis mittleren Paspeln sowie zum N&#xE4;hen von unebenen Stofflagen.</description>
+  <price>41.3</price>
+  <image_link>https://oxid-shop.app.localhost/out/pictures/master/product/1/10000089-nr-38-paspelfuss.jpg</image_link>
+  <categories>Zubeh&#xF6;r</categories>
+  <inventory_quantity>2</inventory_quantity>
+</Product>
+
+<Product>
+  <id>10000091</id>
+  <title>Husqvarna Viking Freihand-Rahmen</title>
+  <link>https://oxid-shop.app.localhost/husqvarna-viking-freihand-rahmen.html</link>
+  <description>F&#xFC;r Modellgruppe 1 2 3 4 5 6 7 - Zum freih&#xE4;ndigen Quilten und Sticken geeignet. Einfach auf dem Quilt platzieren. Der Stoff muss nicht gespannt werden. Die Reibungsfl&#xE4;che (Gummi) unterhalb des Freihand-Rahmens fixiert den Stoff</description>
+  <price>32.2</price>
+  <image_link>https://oxid-shop.app.localhost/out/pictures/master/product/1/10000091-freihand-rahmen-1.jpg</image_link>
+  <categories>Zubeh&#xF6;r,N&#xE4;h- &amp; Stickmaschinen-Zubeh&#xF6;r</categories>
+  <inventory_quantity>1</inventory_quantity>
+</Product>
+
+<Product>
+  <id>10000111</id>
+  <title>Schmetz Universalnadel St&#xE4;rke 100/ System 130/705 H/ 10 Nadeln</title>
+  <link>https://oxid-shop.app.localhost/schmetz-universalnadel-staerke-100-system-130-705-h-10-nadeln.html</link>
+  <description>10er Pck. Nadeln Schmetz St&#xE4;rke 100 - System 130/705 H (Leichte Kugelspitze - Flachkolbennadel f&#xFC;r alle Haushaltsn&#xE4;hmaschinen). Standardnadel f&#xFC;r starkes Garn und schwere Stoffe. </description>
+  <price>3.8</price>
+  <image_link>https://oxid-shop.app.localhost/out/pictures/master/product/1/111.jpg</image_link>
+  <categories>Zubeh&#xF6;r</categories>
+  <inventory_quantity>53</inventory_quantity>
+</Product>
+
+<Product>
+  <id>10000112</id>
+  <title>Schmetz Universalnadel St&#xE4;rke 110/ System 130/705 H/ 10 Nadeln</title>
+  <link>https://oxid-shop.app.localhost/schmetz-universalnadel-staerke-110-system-130-705-h-10-nadeln.html</link>
+  <description>Leichte Kugelspitze - Standardnadel f&#xFC;r starkes Garn und schwere Stoffe. Flachkolbennadel f&#xFC;r alle Haushaltsn&#xE4;hmaschinen.</description>
+  <price>3.8</price>
+  <image_link>https://oxid-shop.app.localhost/out/pictures/master/product/1/112.jpg</image_link>
+  <categories>Zubeh&#xF6;r,Nadeln,N&#xE4;h- und Stickmaschinennadeln</categories>
+  <inventory_quantity>226</inventory_quantity>
+</Product>
 </Products>
