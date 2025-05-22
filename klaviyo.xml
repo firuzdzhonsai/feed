@@ -8,7 +8,7 @@
   <price>7.6</price>
   <image_link>https://oxid-shop.app.localhost/out/pictures/master/product/1/35(1).jpg</image_link>
   <categories>Zubeh&#xF6;r &gt; Sticken &amp; N&#xE4;hen</categories>
-  <stock>78</stock>
+  <inventory_quantity>78</inventory_quantity>
 </Product>
 
 <Product>
@@ -19,7 +19,7 @@
   <price>28.7</price>
   <image_link>https://oxid-shop.app.localhost/out/pictures/master/product/1/41_shop.jpg</image_link>
   <categories>Zubeh&#xF6;r</categories>
-  <stock>2</stock>
+  <inventory_quantity>2</inventory_quantity>
 </Product>
 
 <Product>
@@ -30,7 +30,7 @@
   <price>37.7</price>
   <image_link>https://oxid-shop.app.localhost/out/pictures/master/product/1/51_shop.jpg</image_link>
   <categories>Zubeh&#xF6;r</categories>
-  <stock>7</stock>
+  <inventory_quantity>7</inventory_quantity>
 </Product>
 
 <Product>
@@ -41,7 +41,7 @@
   <price>13.4</price>
   <image_link>https://oxid-shop.app.localhost/out/pictures/master/product/1/74.jpg</image_link>
   <categories>Zubeh&#xF6;r &gt; N&#xE4;h- &amp; Stickmaschinen-Zubeh&#xF6;r &gt; N&#xE4;hf&#xFC;&#xDF;e</categories>
-  <stock>15</stock>
+  <inventory_quantity>15</inventory_quantity>
 </Product>
 
 <Product>
@@ -52,7 +52,7 @@
   <price>29.6</price>
   <image_link>https://oxid-shop.app.localhost/out/pictures/master/product/1/80.jpg</image_link>
   <categories>Zubeh&#xF6;r &gt; N&#xE4;h- &amp; Stickmaschinen-Zubeh&#xF6;r &gt; N&#xE4;hf&#xFC;&#xDF;e</categories>
-  <stock>3</stock>
+  <inventory_quantity>3</inventory_quantity>
 </Product>
 
 <Product>
@@ -63,7 +63,7 @@
   <price>34</price>
   <image_link>https://oxid-shop.app.localhost/out/pictures/master/product/1/81_shop.jpg</image_link>
   <categories>Zubeh&#xF6;r</categories>
-  <stock>1</stock>
+  <inventory_quantity>1</inventory_quantity>
 </Product>
 
 <Product>
@@ -74,7 +74,7 @@
   <price>41.3</price>
   <image_link>https://oxid-shop.app.localhost/out/pictures/master/product/1/10000089-nr-38-paspelfuss.jpg</image_link>
   <categories>Zubeh&#xF6;r</categories>
-  <stock>2</stock>
+  <inventory_quantity>2</inventory_quantity>
 </Product>
 
 <Product>
@@ -85,7 +85,7 @@
   <price>32.2</price>
   <image_link>https://oxid-shop.app.localhost/out/pictures/master/product/1/10000091-freihand-rahmen-1.jpg</image_link>
   <categories>Zubeh&#xF6;r &gt; N&#xE4;h- &amp; Stickmaschinen-Zubeh&#xF6;r</categories>
-  <stock>1</stock>
+  <inventory_quantity>1</inventory_quantity>
 </Product>
 
 <Product>
@@ -96,7 +96,7 @@
   <price>3.8</price>
   <image_link>https://oxid-shop.app.localhost/out/pictures/master/product/1/111.jpg</image_link>
   <categories>Zubeh&#xF6;r</categories>
-  <stock>53</stock>
+  <inventory_quantity>53</inventory_quantity>
 </Product>
 
 <Product>
@@ -107,6 +107,6 @@
   <price>3.8</price>
   <image_link>https://oxid-shop.app.localhost/out/pictures/master/product/1/112.jpg</image_link>
   <categories>Zubeh&#xF6;r &gt; Nadeln &gt; N&#xE4;h- und Stickmaschinennadeln</categories>
-  <stock>226</stock>
+  <inventory_quantity>226</inventory_quantity>
 </Product>
 </Products>
